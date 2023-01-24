@@ -12,3 +12,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 layout do projeto no figma [DESSE LINK](https://www.figma.com/community/file/1195327109778210238)
 
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+
+![](https://github.com/DanniRoot/NLW-habits/blob/main/habts.jpeg)
